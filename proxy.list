@@ -1,0 +1,343 @@
+{"country": "US", "export_address": ["unknown", "68.183.108.113"], "host": "68.183.108.113", "type": "http", "response_time": 1.07, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["198.98.58.178"], "host": "198.98.58.178", "type": "http", "response_time": 1.07, "anonymity": "transparent", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["unknown", "165.227.215.199"], "host": "165.227.215.199", "type": "http", "response_time": 1.07, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "US", "export_address": ["unknown", "104.248.1.178"], "host": "104.248.1.178", "type": "http", "response_time": 1.07, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["unknown", "142.93.0.203"], "host": "142.93.0.203", "type": "http", "response_time": 1.07, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "US", "export_address": ["34.73.34.132", "64.227.6.252"], "host": "64.227.6.252", "type": "http", "response_time": 0.94, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "GB", "export_address": ["35.196.82.30", "167.172.27.117"], "host": "167.172.27.117", "type": "http", "response_time": 0.6, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "US", "export_address": ["198.98.58.178"], "host": "198.98.58.178", "type": "https", "response_time": 1.19, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["72.35.40.34"], "host": "72.35.40.34", "type": "http", "response_time": 1.18, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["64.227.6.252"], "host": "64.227.6.252", "type": "https", "response_time": 1.03, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "GB", "export_address": ["167.172.27.117"], "host": "167.172.27.117", "type": "https", "response_time": 0.71, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "US", "export_address": ["35.227.58.83", "34.83.108.137"], "host": "34.83.108.137", "type": "http", "response_time": 1.22, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "AR", "export_address": ["unknown", "190.103.179.7"], "host": "190.103.179.7", "type": "http", "response_time": 0.67, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "US", "export_address": ["35.227.58.83", "64.227.2.136"], "host": "64.227.2.136", "type": "http", "response_time": 1.2, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "NL", "export_address": ["95.179.209.153"], "host": "95.179.209.153", "type": "http", "response_time": 1.26, "anonymity": "transparent", "from": "freeproxylist", "port": 3128}
+{"country": "DE", "export_address": ["34.74.91.53"], "host": "78.46.8.204", "type": "http", "response_time": 1.28, "anonymity": "high_anonymous", "from": "cnproxy", "port": 80}
+{"country": "DE", "export_address": ["35.196.82.30", "5.9.201.68"], "host": "5.9.201.68", "type": "http", "response_time": 1.28, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "NL", "export_address": ["34.73.66.97", "103.194.171.156"], "host": "103.194.171.156", "type": "http", "response_time": 1.25, "anonymity": "anonymous", "from": "freeproxylist", "port": 8888}
+{"country": "DE", "export_address": ["35.227.58.83", "80.187.140.26"], "host": "80.187.140.26", "type": "http", "response_time": 1.29, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "DE", "export_address": ["34.73.66.97", "188.40.173.147"], "host": "188.40.173.147", "type": "http", "response_time": 1.01, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "FR", "export_address": ["34.73.34.132", "163.172.154.72"], "host": "163.172.154.72", "type": "http", "response_time": 1.32, "anonymity": "anonymous", "from": "freeproxylist", "port": 8811}
+{"country": "IT", "export_address": ["35.227.58.83", "80.211.47.12"], "host": "80.211.47.12", "type": "http", "response_time": 1.24, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "FR", "export_address": ["35.227.58.83", "163.172.136.226"], "host": "163.172.136.226", "type": "http", "response_time": 1.17, "anonymity": "anonymous", "from": "freeproxylist", "port": 8811}
+{"country": "FR", "export_address": ["163.172.28.22"], "host": "163.172.28.22", "type": "http", "response_time": 1.2, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "FR", "export_address": ["34.73.66.97", "51.158.99.51"], "host": "51.158.99.51", "type": "http", "response_time": 1.31, "anonymity": "anonymous", "from": "freeproxylist", "port": 8811}
+{"country": "FR", "export_address": ["51.158.68.133"], "host": "51.158.68.133", "type": "http", "response_time": 1.31, "anonymity": "transparent", "from": "txt", "port": 8811}
+{"country": "FR", "export_address": ["34.74.91.53", "51.158.123.250"], "host": "51.158.123.250", "type": "http", "response_time": 1.34, "anonymity": "anonymous", "from": "txt", "port": 8811}
+{"country": "FR", "export_address": ["194.167.44.91"], "host": "194.167.44.91", "type": "http", "response_time": 1.29, "anonymity": "anonymous", "from": "freeproxylist", "port": 80}
+{"country": "RU", "export_address": ["34.73.34.132", "159.93.65.191"], "host": "159.93.65.191", "type": "http", "response_time": 1.28, "anonymity": "anonymous", "from": "freeproxylist", "port": 80}
+{"country": "BR", "export_address": ["200.255.122.170"], "host": "200.255.122.170", "type": "http", "response_time": 0.91, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "FR", "export_address": ["35.196.82.30", "51.158.120.84"], "host": "51.158.120.84", "type": "http", "response_time": 1.23, "anonymity": "anonymous", "from": "txt", "port": 8811}
+{"country": "FR", "export_address": ["35.227.58.83", "51.158.123.35"], "host": "51.158.123.35", "type": "http", "response_time": 1.26, "anonymity": "anonymous", "from": "txt", "port": 8811}
+{"country": "FR", "export_address": ["34.73.34.132", "163.172.189.32"], "host": "163.172.189.32", "type": "http", "response_time": 1.41, "anonymity": "anonymous", "from": "freeproxylist", "port": 8811}
+{"country": "FR", "export_address": ["34.73.66.97", "51.158.98.121"], "host": "51.158.98.121", "type": "http", "response_time": 1.28, "anonymity": "anonymous", "from": "freeproxylist", "port": 8811}
+{"country": "FR", "export_address": ["34.74.91.53", "51.158.111.229"], "host": "51.158.111.229", "type": "http", "response_time": 1.29, "anonymity": "anonymous", "from": "txt", "port": 8811}
+{"country": "AR", "export_address": ["unknown", "200.89.178.210"], "host": "200.89.178.210", "type": "http", "response_time": 0.99, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "AR", "export_address": ["unknown", "181.30.28.12"], "host": "181.30.28.12", "type": "http", "response_time": 1.01, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "AR", "export_address": ["unknown", "181.30.28.14"], "host": "181.30.28.14", "type": "http", "response_time": 1.1, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "AR", "export_address": ["unknown", "200.89.159.240"], "host": "200.89.159.240", "type": "http", "response_time": 1.38, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "FR", "export_address": ["151.80.199.89"], "host": "151.80.199.89", "type": "http", "response_time": 1.54, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "EC", "export_address": ["34.74.91.53", "45.224.152.18"], "host": "45.224.152.18", "type": "http", "response_time": 1.46, "anonymity": "anonymous", "from": "freeproxylist", "port": 999}
+{"country": "AR", "export_address": ["unknown", "200.89.178.216"], "host": "200.89.178.216", "type": "http", "response_time": 1.3, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "AR", "export_address": ["unknown", "200.89.178.219"], "host": "200.89.178.219", "type": "http", "response_time": 1.38, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "AR", "export_address": ["unknown", "200.89.178.225"], "host": "200.89.178.225", "type": "http", "response_time": 1.45, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["unknown", "200.89.178.213"], "host": "200.89.178.213", "type": "http", "response_time": 1.43, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "AR", "export_address": ["unknown", "200.89.178.228"], "host": "200.89.178.228", "type": "http", "response_time": 1.45, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "AR", "export_address": ["unknown", "200.89.178.182"], "host": "200.89.178.182", "type": "http", "response_time": 1.46, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "AR", "export_address": ["unknown", "200.89.178.214"], "host": "200.89.178.214", "type": "http", "response_time": 1.48, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "AR", "export_address": ["unknown", "200.89.178.231"], "host": "200.89.178.231", "type": "http", "response_time": 1.44, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["unknown", "200.89.178.217"], "host": "200.89.178.217", "type": "http", "response_time": 1.46, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["unknown", "200.89.178.208"], "host": "200.89.178.208", "type": "http", "response_time": 1.48, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "AR", "export_address": ["34.73.66.97", "200.73.128.198"], "host": "200.73.128.198", "type": "http", "response_time": 1.49, "anonymity": "anonymous", "from": "freeproxylist", "port": 80}
+{"country": "VE", "export_address": ["34.74.91.53", "201.249.180.234"], "host": "201.249.180.234", "type": "http", "response_time": 1.08, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "RU", "export_address": ["35.227.58.83", "79.143.28.185"], "host": "79.143.28.185", "type": "http", "response_time": 1.45, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "DE", "export_address": ["5.189.133.231"], "host": "173.212.202.65", "type": "http", "response_time": 1.45, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "US", "export_address": ["72.35.40.34"], "host": "72.35.40.34", "type": "https", "response_time": 1.65, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "BR", "export_address": ["200.242.26.170"], "host": "189.43.68.168", "type": "http", "response_time": 1.12, "anonymity": "anonymous", "from": "freeproxylist", "port": 80}
+{"country": "BR", "export_address": ["200.242.26.170"], "host": "189.43.68.174", "type": "http", "response_time": 1.42, "anonymity": "anonymous", "from": "freeproxylist", "port": 80}
+{"country": "PL", "export_address": ["195.117.218.190"], "host": "80.48.119.28", "type": "http", "response_time": 1.52, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "PL", "export_address": ["88.199.21.76"], "host": "88.199.21.76", "type": "http", "response_time": 1.52, "anonymity": "transparent", "from": "freeproxylist", "port": 80}
+{"country": "US", "export_address": ["34.74.91.53", "34.90.113.143"], "host": "34.90.113.143", "type": "http", "response_time": 1.64, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "AR", "export_address": ["190.210.212.49"], "host": "190.210.212.49", "type": "http", "response_time": 1.49, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["unknown", "200.73.128.196"], "host": "200.73.128.196", "type": "http", "response_time": 1.6, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "JP", "export_address": ["103.120.19.62"], "host": "103.120.19.62", "type": "http", "response_time": 1.5, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "US", "export_address": ["34.74.91.53"], "host": "23.91.96.251", "type": "http", "response_time": 1.49, "anonymity": "high_anonymous", "from": "cnproxy", "port": 80}
+{"country": "AR", "export_address": ["unknown", "200.89.174.64"], "host": "200.89.174.64", "type": "http", "response_time": 1.59, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "FR", "export_address": ["unknown", "51.79.51.43"], "host": "51.79.51.43", "type": "http", "response_time": 1.16, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "RU", "export_address": ["34.73.34.132", "188.191.165.92"], "host": "188.191.165.92", "type": "http", "response_time": 1.54, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["190.103.179.7"], "host": "190.103.179.7", "type": "https", "response_time": 1.22, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "TH", "export_address": ["34.73.66.97", "103.253.73.251"], "host": "103.253.73.251", "type": "http", "response_time": 1.5, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "BR", "export_address": ["34.74.91.53", "177.158.248.172"], "host": "177.158.244.5", "type": "http", "response_time": 1.26, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["34.83.108.137"], "host": "34.83.108.137", "type": "https", "response_time": 1.81, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "NG", "export_address": ["35.227.58.83", "41.73.9.101"], "host": "41.73.15.130", "type": "http", "response_time": 1.59, "anonymity": "anonymous", "from": "freeproxylist", "port": 80}
+{"country": "IN", "export_address": ["unknown", "125.16.128.118"], "host": "125.16.128.118", "type": "http", "response_time": 1.54, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "GT", "export_address": ["200.35.187.114"], "host": "200.35.187.114", "type": "https", "response_time": 1.85, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "RU", "export_address": ["212.220.216.70"], "host": "212.220.216.70", "type": "http", "response_time": 1.64, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AU", "export_address": ["203.19.88.130"], "host": "203.19.92.3", "type": "http", "response_time": 1.62, "anonymity": "anonymous", "from": "freeproxylist", "port": 80}
+{"country": "BR", "export_address": ["34.73.34.132", "187.16.4.126"], "host": "187.16.4.126", "type": "http", "response_time": 1.74, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["47.56.189.132"], "host": "47.56.189.132", "type": "http", "response_time": 1.62, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "SG", "export_address": ["35.227.58.83", "139.162.59.9"], "host": "139.162.59.9", "type": "http", "response_time": 1.7, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["unknown", "200.89.178.209"], "host": "200.89.178.209", "type": "http", "response_time": 1.85, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "ES", "export_address": ["151.237.59.93"], "host": "151.237.59.93", "type": "http", "response_time": 1.43, "anonymity": "transparent", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["unknown", "200.89.178.229"], "host": "200.89.178.229", "type": "http", "response_time": 1.84, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AU", "export_address": ["203.19.88.130"], "host": "203.19.88.59", "type": "http", "response_time": 1.2, "anonymity": "anonymous", "from": "freeproxylist", "port": 80}
+{"country": "AE", "export_address": ["151.253.165.70"], "host": "151.253.165.70", "type": "http", "response_time": 1.7, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["34.73.66.97", "167.71.202.109"], "host": "167.71.202.109", "type": "http", "response_time": 1.58, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["unknown", "200.89.178.218"], "host": "200.89.178.218", "type": "http", "response_time": 1.87, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "ID", "export_address": ["103.89.3.242"], "host": "103.89.3.242", "type": "http", "response_time": 1.72, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "RU", "export_address": ["176.32.33.36"], "host": "176.32.33.36", "type": "http", "response_time": 1.62, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 33122}
+{"country": "FR", "export_address": ["51.158.111.229"], "host": "51.158.111.229", "type": "https", "response_time": 1.81, "anonymity": "high_anonymous", "from": "txt", "port": 8811}
+{"country": "FR", "export_address": ["51.158.98.121"], "host": "51.158.98.121", "type": "https", "response_time": 1.81, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8811}
+{"country": "FR", "export_address": ["163.172.154.72"], "host": "163.172.154.72", "type": "https", "response_time": 1.97, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8811}
+{"country": "FR", "export_address": ["163.172.189.32"], "host": "163.172.189.32", "type": "https", "response_time": 1.95, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8811}
+{"country": "FR", "export_address": ["51.158.68.133"], "host": "51.158.68.133", "type": "https", "response_time": 1.95, "anonymity": "high_anonymous", "from": "txt", "port": 8811}
+{"country": "FR", "export_address": ["51.158.123.250"], "host": "51.158.123.250", "type": "https", "response_time": 1.97, "anonymity": "high_anonymous", "from": "txt", "port": 8811}
+{"country": "NL", "export_address": ["95.179.209.153"], "host": "95.179.209.153", "type": "https", "response_time": 2.01, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "NL", "export_address": ["103.194.171.156"], "host": "103.194.171.156", "type": "https", "response_time": 1.97, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8888}
+{"country": "FR", "export_address": ["51.158.120.84"], "host": "51.158.120.84", "type": "https", "response_time": 1.81, "anonymity": "high_anonymous", "from": "txt", "port": 8811}
+{"country": "FR", "export_address": ["51.158.123.35"], "host": "51.158.123.35", "type": "https", "response_time": 1.83, "anonymity": "high_anonymous", "from": "txt", "port": 8811}
+{"country": "FR", "export_address": ["163.172.136.226"], "host": "163.172.136.226", "type": "https", "response_time": 1.83, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8811}
+{"country": "DE", "export_address": ["5.9.201.68"], "host": "5.9.201.68", "type": "https", "response_time": 2.02, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "VN", "export_address": ["210.245.110.254"], "host": "118.69.50.154", "type": "http", "response_time": 1.77, "anonymity": "anonymous", "from": "freeproxylist", "port": 443}
+{"country": "BD", "export_address": ["45.64.134.198"], "host": "203.202.245.62", "type": "http", "response_time": 1.77, "anonymity": "anonymous", "from": "freeproxylist", "port": 80}
+{"country": "GB", "export_address": ["178.62.246.161"], "host": "178.62.246.161", "type": "http", "response_time": 2.03, "anonymity": "transparent", "from": "freeproxylist", "port": 8080}
+{"country": "VN", "export_address": ["210.245.110.254"], "host": "118.69.50.154", "type": "http", "response_time": 1.77, "anonymity": "anonymous", "from": "freeproxylist", "port": 80}
+{"country": "US", "export_address": ["64.227.14.32"], "host": "64.227.14.32", "type": "https", "response_time": 2.03, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "JP", "export_address": ["47.74.44.84"], "host": "47.74.44.84", "type": "http", "response_time": 1.77, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "TH", "export_address": ["113.53.230.162"], "host": "113.53.230.167", "type": "http", "response_time": 1.79, "anonymity": "anonymous", "from": "txt", "port": 80}
+{"country": "US", "export_address": ["64.227.2.136"], "host": "64.227.2.136", "type": "https", "response_time": 2.03, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["35.227.58.83", "200.73.128.163"], "host": "200.73.128.163", "type": "http", "response_time": 1.88, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "VE", "export_address": ["201.249.180.234"], "host": "201.249.180.234", "type": "https", "response_time": 1.61, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "FR", "export_address": ["151.80.199.89"], "host": "151.80.199.89", "type": "https", "response_time": 2.13, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "IN", "export_address": ["119.42.152.19"], "host": "119.42.152.19", "type": "http", "response_time": 1.84, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "GT", "export_address": ["200.35.187.114"], "host": "200.35.187.114", "type": "http", "response_time": 2.17, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "ZW", "export_address": ["41.190.33.162"], "host": "41.190.33.162", "type": "http", "response_time": 1.61, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "RO", "export_address": ["89.42.133.58"], "host": "89.42.133.58", "type": "http", "response_time": 1.82, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "DE", "export_address": ["80.187.140.26"], "host": "80.187.140.26", "type": "https", "response_time": 2.19, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "LU", "export_address": ["104.244.77.254"], "host": "104.244.77.254", "type": "https", "response_time": 2.2, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["198.98.54.241"], "host": "198.98.54.241", "type": "https", "response_time": 1.72, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "ID", "export_address": ["34.74.91.53", "118.99.95.136"], "host": "118.99.95.136", "type": "http", "response_time": 1.94, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["34.73.66.97", "209.97.177.59"], "host": "209.97.177.59", "type": "http", "response_time": 2.24, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "IT", "export_address": ["80.211.47.12"], "host": "80.211.47.12", "type": "https", "response_time": 2.16, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "PL", "export_address": ["88.199.21.76"], "host": "88.199.21.76", "type": "https", "response_time": 2.15, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "TH", "export_address": ["125.25.45.92"], "host": "125.25.45.92", "type": "http", "response_time": 1.43, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "BR", "export_address": ["187.16.4.126"], "host": "187.16.4.126", "type": "https", "response_time": 2.21, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "EC", "export_address": ["45.224.152.18"], "host": "45.224.152.18", "type": "https", "response_time": 2.29, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 999}
+{"country": "FR", "export_address": ["51.158.99.51"], "host": "51.158.99.51", "type": "https", "response_time": 2.33, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8811}
+{"country": "CN", "export_address": ["47.75.11.94"], "host": "47.75.11.94", "type": "http", "response_time": 2.16, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "NL", "export_address": ["34.73.34.132", "178.128.247.43"], "host": "178.128.247.43", "type": "http", "response_time": 2.41, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "RU", "export_address": ["79.143.28.185"], "host": "79.143.28.185", "type": "https", "response_time": 2.32, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "LU", "export_address": ["34.73.34.132", "104.244.77.254"], "host": "104.244.77.254", "type": "http", "response_time": 2.43, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "RU", "export_address": ["34.73.66.97", "81.95.46.54"], "host": "81.95.35.2", "type": "http", "response_time": 2.21, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "ES", "export_address": ["151.237.59.93"], "host": "151.237.59.93", "type": "https", "response_time": 1.95, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "HK", "export_address": ["34.74.91.53", "113.254.110.36"], "host": "113.254.110.36", "type": "http", "response_time": 2.13, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["186.56.99.103"], "host": "186.56.99.103", "type": "http", "response_time": 1.82, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53040}
+{"country": "GB", "export_address": ["178.62.246.161"], "host": "178.62.246.161", "type": "https", "response_time": 2.49, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "DE", "export_address": ["5.189.133.231"], "host": "5.189.133.231", "type": "http", "response_time": 1.62, "anonymity": "high_anonymous", "from": "txt", "port": 80}
+{"country": "RU", "export_address": ["188.191.165.92"], "host": "188.191.165.92", "type": "https", "response_time": 2.33, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["unknown", "200.89.178.230"], "host": "200.89.178.230", "type": "http", "response_time": 2.48, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "TH", "export_address": ["124.122.51.241"], "host": "124.122.51.241", "type": "http", "response_time": 2.1, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "BR", "export_address": ["177.158.248.172"], "host": "177.158.244.5", "type": "https", "response_time": 2.14, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "RU", "export_address": ["159.93.65.191"], "host": "159.93.65.191", "type": "https", "response_time": 2.53, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "MX", "export_address": ["34.73.66.97", "187.162.11.94"], "host": "187.162.11.94", "type": "http", "response_time": 2.39, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "BR", "export_address": ["200.255.122.170"], "host": "200.255.122.170", "type": "https", "response_time": 2.29, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "FR", "export_address": ["34.73.66.97", "51.158.186.177"], "host": "51.158.186.177", "type": "http", "response_time": 2.49, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "FR", "export_address": ["81.23.32.47"], "host": "81.23.32.47", "type": "http", "response_time": 2.42, "anonymity": "anonymous", "from": "txt", "port": 443}
+{"country": "BD", "export_address": ["45.64.134.198"], "host": "203.202.245.58", "type": "http", "response_time": 2.43, "anonymity": "anonymous", "from": "freeproxylist", "port": 80}
+{"country": "US", "export_address": ["35.227.58.83", "68.183.211.110"], "host": "68.183.211.110", "type": "http", "response_time": 2.82, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "TH", "export_address": ["34.73.66.97", "14.207.28.14"], "host": "14.207.28.14", "type": "http", "response_time": 2.3, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["23.96.117.87"], "host": "23.96.117.87", "type": "http", "response_time": 2.9, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "BR", "export_address": ["34.73.34.132", "177.38.68.234"], "host": "177.38.68.234", "type": "http", "response_time": 2.52, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "IN", "export_address": ["103.250.152.30"], "host": "103.250.152.30", "type": "http", "response_time": 2.04, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 48004}
+{"country": "NL", "export_address": ["178.128.247.43"], "host": "178.128.247.43", "type": "https", "response_time": 3.01, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["34.73.66.97", "181.192.20.42"], "host": "181.192.20.42", "type": "http", "response_time": 2.5, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AE", "export_address": ["151.253.165.70"], "host": "151.253.165.70", "type": "https", "response_time": 2.97, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["200.73.128.163"], "host": "200.73.128.163", "type": "https", "response_time": 3.04, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AU", "export_address": ["58.84.190.222"], "host": "58.84.190.222", "type": "http", "response_time": 2.54, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "SG", "export_address": ["139.162.59.9"], "host": "139.162.59.9", "type": "https", "response_time": 3.09, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "FR", "export_address": ["81.23.32.47"], "host": "81.23.32.47", "type": "https", "response_time": 2.9, "anonymity": "high_anonymous", "from": "txt", "port": 443}
+{"country": "BR", "export_address": ["138.122.140.35", "138.122.140.35"], "host": "138.122.140.35", "type": "http", "response_time": 2.47, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "AR", "export_address": ["186.56.99.103"], "host": "186.56.99.103", "type": "https", "response_time": 2.65, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53040}
+{"country": "HU", "export_address": ["37.220.195.14"], "host": "37.220.195.14", "type": "http", "response_time": 2.44, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "US", "export_address": ["157.230.244.46"], "host": "157.230.244.46", "type": "https", "response_time": 3.17, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["167.71.202.109"], "host": "167.71.202.109", "type": "https", "response_time": 3.02, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "TH", "export_address": ["34.74.91.53", "1.2.200.238"], "host": "1.2.200.238", "type": "http", "response_time": 2.62, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "BG", "export_address": ["92.247.2.26"], "host": "92.247.2.26", "type": "http", "response_time": 2.7, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 21231}
+{"country": "ID", "export_address": ["118.99.95.136"], "host": "118.99.95.136", "type": "https", "response_time": 3.16, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "FR", "export_address": ["51.158.186.177"], "host": "51.158.186.177", "type": "https", "response_time": 3.17, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "TH", "export_address": ["103.253.73.251"], "host": "103.253.73.251", "type": "https", "response_time": 3.22, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "IN", "export_address": ["119.42.152.19"], "host": "119.42.152.19", "type": "https", "response_time": 3.26, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "US", "export_address": ["68.183.211.110"], "host": "68.183.211.110", "type": "https", "response_time": 3.59, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "TH", "export_address": ["124.122.51.241"], "host": "124.122.51.241", "type": "https", "response_time": 3.1, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "FR", "export_address": ["51.38.184.52"], "host": "51.38.184.52", "type": "http", "response_time": 3.17, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["200.73.128.198"], "host": "200.73.128.198", "type": "https", "response_time": 3.61, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "RU", "export_address": ["93.91.112.247"], "host": "93.91.112.247", "type": "http", "response_time": 2.53, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 41258}
+{"country": "BR", "export_address": ["177.38.68.234"], "host": "177.38.68.234", "type": "https", "response_time": 3.31, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "HK", "export_address": ["113.254.110.36"], "host": "113.254.110.36", "type": "https", "response_time": 3.4, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AM", "export_address": ["185.44.229.227"], "host": "185.44.229.227", "type": "https", "response_time": 2.98, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 34930}
+{"country": "ID", "export_address": ["123.231.255.98"], "host": "123.231.255.98", "type": "https", "response_time": 3.22, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AM", "export_address": ["5.63.165.178"], "host": "5.63.165.178", "type": "http", "response_time": 2.65, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 40561}
+{"country": "ID", "export_address": ["34.74.91.53", "36.78.159.183"], "host": "36.78.159.183", "type": "http", "response_time": 3.47, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "HN", "export_address": ["190.92.5.158"], "host": "190.92.5.158", "type": "http", "response_time": 2.65, "anonymity": "high_anonymous", "from": "txt", "port": 53281}
+{"country": "TH", "export_address": ["14.207.28.14"], "host": "14.207.28.14", "type": "https", "response_time": 3.41, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "GB", "export_address": ["167.172.145.148"], "host": "167.172.145.148", "type": "https", "response_time": 3.39, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["181.192.20.42"], "host": "181.192.20.42", "type": "https", "response_time": 3.51, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["67.60.137.219"], "host": "67.60.137.219", "type": "http", "response_time": 2.74, "anonymity": "high_anonymous", "from": "txt", "port": 35979}
+{"country": "BR", "export_address": ["200.0.46.50"], "host": "200.0.46.50", "type": "http", "response_time": 3.47, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 37232}
+{"country": "BG", "export_address": ["92.247.2.26"], "host": "92.247.2.26", "type": "https", "response_time": 3.36, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 21231}
+{"country": "CO", "export_address": ["34.74.91.53", "152.204.130.62"], "host": "152.204.130.62", "type": "http", "response_time": 3.67, "anonymity": "anonymous", "from": "cnproxy", "port": 8080}
+{"country": "BG", "export_address": ["91.92.10.112"], "host": "91.92.10.112", "type": "http", "response_time": 3.34, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["34.73.66.97", "64.227.14.32"], "host": "64.227.14.32", "type": "http", "response_time": 4.22, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "ID", "export_address": ["203.153.20.64"], "host": "203.153.20.64", "type": "http", "response_time": 3.84, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "BR", "export_address": ["192.140.42.28"], "host": "192.140.42.28", "type": "http", "response_time": 3.74, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 39653}
+{"country": "TH", "export_address": ["34.74.91.53", "183.89.123.208"], "host": "183.89.123.208", "type": "http", "response_time": 3.83, "anonymity": "anonymous", "from": "freeproxylist", "port": 8081}
+{"country": "BR", "export_address": ["186.250.29.1"], "host": "186.250.29.1", "type": "http", "response_time": 4.01, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "RU", "export_address": ["93.91.112.247"], "host": "93.91.112.247", "type": "https", "response_time": 3.46, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 41258}
+{"country": "TH", "export_address": ["180.183.225.241"], "host": "180.183.225.241", "type": "https", "response_time": 3.86, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["35.227.58.83", "157.230.244.46"], "host": "157.230.244.46", "type": "http", "response_time": 4.55, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "RO", "export_address": ["89.165.218.82"], "host": "89.165.218.82", "type": "http", "response_time": 3.28, "anonymity": "high_anonymous", "from": "txt", "port": 47886}
+{"country": "BG", "export_address": ["91.92.10.112"], "host": "91.92.10.112", "type": "https", "response_time": 3.97, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "CO", "export_address": ["181.129.183.19"], "host": "181.129.183.19", "type": "http", "response_time": 4.16, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "BR", "export_address": ["177.92.67.230"], "host": "177.92.67.230", "type": "http", "response_time": 4.36, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "BR", "export_address": ["192.140.42.81"], "host": "192.140.42.81", "type": "http", "response_time": 4.31, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 40242}
+{"country": "US", "export_address": ["67.60.137.219"], "host": "67.60.137.219", "type": "https", "response_time": 3.87, "anonymity": "high_anonymous", "from": "txt", "port": 35979}
+{"country": "DE", "export_address": ["34.73.66.97", "54.37.76.57"], "host": "54.37.76.57", "type": "http", "response_time": 5.12, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "GB", "export_address": ["45.32.177.5"], "host": "45.32.177.5", "type": "http", "response_time": 5.33, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 31285}
+{"country": "BR", "export_address": ["186.219.96.47"], "host": "186.219.96.47", "type": "http", "response_time": 4.62, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 34758}
+{"country": "ID", "export_address": ["103.23.103.203"], "host": "103.23.103.203", "type": "http", "response_time": 4.97, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 49497}
+{"country": "CO", "export_address": ["186.146.2.111"], "host": "186.146.2.111", "type": "https", "response_time": 4.57, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 60837}
+{"country": "ID", "export_address": ["103.57.38.21"], "host": "103.57.38.21", "type": "http", "response_time": 4.95, "anonymity": "transparent", "from": "freeproxylist", "port": 8080}
+{"country": "ID", "export_address": ["36.92.35.73"], "host": "36.92.35.73", "type": "https", "response_time": 4.92, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "GB", "export_address": ["51.38.71.101"], "host": "51.38.71.101", "type": "http", "response_time": 5.39, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "BR", "export_address": ["45.228.96.34"], "host": "45.228.96.34", "type": "http", "response_time": 4.98, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 48887}
+{"country": "ES", "export_address": ["81.33.4.214"], "host": "81.33.4.214", "type": "http", "response_time": 5.45, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 61711}
+{"country": "TR", "export_address": ["35.227.58.83", "178.245.198.222"], "host": "178.245.198.222", "type": "http", "response_time": 5.37, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "BD", "export_address": ["45.123.42.146"], "host": "45.123.42.146", "type": "https", "response_time": 5.27, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 61334}
+{"country": "DE", "export_address": ["54.37.76.57"], "host": "54.37.76.57", "type": "https", "response_time": 5.81, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "BR", "export_address": ["192.140.42.28"], "host": "192.140.42.28", "type": "https", "response_time": 5.34, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 39653}
+{"country": "CO", "export_address": ["181.129.183.19"], "host": "181.129.183.19", "type": "https", "response_time": 5.24, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "AR", "export_address": ["190.210.212.49"], "host": "190.210.212.49", "type": "https", "response_time": 5.93, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "EC", "export_address": ["181.113.135.254"], "host": "181.113.135.254", "type": "https", "response_time": 5.74, "anonymity": "high_anonymous", "from": "txt", "port": 52058}
+{"country": "BD", "export_address": ["117.58.241.164"], "host": "117.58.241.164", "type": "https", "response_time": 5.38, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 52636}
+{"country": "ID", "export_address": ["103.57.38.21"], "host": "103.57.38.21", "type": "https", "response_time": 5.7, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "ID", "export_address": ["36.83.111.94"], "host": "36.83.111.94", "type": "http", "response_time": 5.91, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "ID", "export_address": ["36.92.35.73"], "host": "36.92.35.73", "type": "http", "response_time": 5.8, "anonymity": "transparent", "from": "freeproxylist", "port": 3128}
+{"country": "ZA", "export_address": ["41.160.40.2"], "host": "41.160.40.2", "type": "http", "response_time": 5.14, "anonymity": "high_anonymous", "from": "txt", "port": 37741}
+{"country": "AM", "export_address": ["5.63.165.178"], "host": "5.63.165.178", "type": "https", "response_time": 5.26, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 40561}
+{"country": "US", "export_address": ["209.97.177.59"], "host": "209.97.177.59", "type": "https", "response_time": 6.47, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "ID", "export_address": ["120.29.155.58"], "host": "120.29.155.58", "type": "https", "response_time": 6.07, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 60004}
+{"country": "ES", "export_address": ["81.33.4.214"], "host": "81.33.4.214", "type": "https", "response_time": 6.2, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 61711}
+{"country": "AL", "export_address": ["77.242.16.26"], "host": "77.242.16.26", "type": "http", "response_time": 5.97, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "LV", "export_address": ["95.68.11.4"], "host": "95.68.11.4", "type": "http", "response_time": 6.25, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "PY", "export_address": ["201.217.4.101"], "host": "201.217.4.101", "type": "https", "response_time": 5.58, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "ID", "export_address": ["35.227.58.83", "202.162.198.93"], "host": "202.162.198.93", "type": "http", "response_time": 6.12, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "ID", "export_address": ["34.73.66.97", "180.249.73.66"], "host": "36.92.68.211", "type": "http", "response_time": 6.12, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AL", "export_address": ["185.188.218.14"], "host": "185.188.218.10", "type": "http", "response_time": 5.95, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 60928}
+{"country": "BR", "export_address": ["138.122.140.35"], "host": "138.122.140.35", "type": "https", "response_time": 6.12, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "BD", "export_address": ["34.73.66.97", "116.212.107.115"], "host": "116.212.107.115", "type": "http", "response_time": 6.32, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "ID", "export_address": ["103.23.103.203"], "host": "103.23.103.203", "type": "https", "response_time": 6.59, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 49497}
+{"country": "CO", "export_address": ["186.146.2.111"], "host": "186.146.2.111", "type": "http", "response_time": 6.33, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 60837}
+{"country": "US", "export_address": ["34.74.91.53", "104.245.69.26"], "host": "104.245.69.17", "type": "http", "response_time": 6.77, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "ID", "export_address": ["180.243.7.131"], "host": "103.121.149.90", "type": "https", "response_time": 6.96, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "RU", "export_address": ["94.127.217.66"], "host": "94.127.217.66", "type": "http", "response_time": 6.26, "anonymity": "high_anonymous", "from": "txt", "port": 40115}
+{"country": "TR", "export_address": ["34.73.34.132", "195.175.209.194"], "host": "195.175.209.194", "type": "http", "response_time": 7.39, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "ID", "export_address": ["36.83.111.94"], "host": "36.83.111.94", "type": "https", "response_time": 7.26, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "ID", "export_address": ["36.78.159.183"], "host": "36.78.159.183", "type": "https", "response_time": 7.33, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["34.73.66.97", "181.192.20.201"], "host": "181.192.20.201", "type": "http", "response_time": 7.37, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AR", "export_address": ["181.192.20.201"], "host": "181.192.20.201", "type": "https", "response_time": 7.79, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "ID", "export_address": ["202.138.239.242"], "host": "202.138.239.242", "type": "http", "response_time": 7.85, "anonymity": "transparent", "from": "freeproxylist", "port": 8080}
+{"country": "BR", "export_address": ["200.0.46.50"], "host": "200.0.46.50", "type": "https", "response_time": 8.1, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 37232}
+{"country": "TR", "export_address": ["178.245.198.222"], "host": "178.245.198.222", "type": "https", "response_time": 8.19, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "BD", "export_address": ["27.147.249.202"], "host": "27.147.249.202", "type": "http", "response_time": 8.14, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 56219}
+{"country": "BD", "export_address": ["116.212.107.115"], "host": "116.212.107.115", "type": "https", "response_time": 8.92, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "ID", "export_address": ["202.138.239.242"], "host": "202.138.239.242", "type": "https", "response_time": 8.99, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "BD", "export_address": ["27.147.249.202"], "host": "27.147.249.202", "type": "https", "response_time": 14.04, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 56219}
+{"country": "CM", "export_address": ["41.204.93.54"], "host": "41.204.93.54", "type": "https", "response_time": 4.68, "anonymity": "high_anonymous", "from": "cnproxy", "port": 8080}
+{"country": "RU", "export_address": ["34.73.34.132", "91.217.42.64"], "host": "91.217.42.2", "type": "http", "response_time": 5.61, "anonymity": "anonymous", "from": "cnproxy", "port": 8080}
+{"country": "HK", "export_address": ["223.197.56.113"], "host": "223.197.56.102", "type": "http", "response_time": 6.57, "anonymity": "anonymous", "from": "cnproxy", "port": 80}
+{"country": "RU", "export_address": ["91.217.42.64"], "host": "91.217.42.2", "type": "https", "response_time": 6.78, "anonymity": "high_anonymous", "from": "cnproxy", "port": 8080}
+{"country": "DE", "export_address": ["185.220.100.243"], "host": "46.101.215.222", "type": "http", "response_time": 1.04, "anonymity": "high_anonymous", "from": "cnproxy", "port": 8118}
+{"country": "DE", "export_address": ["144.76.134.114"], "host": "144.76.134.114", "type": "http", "response_time": 0.79, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "BR", "export_address": ["187.44.7.80"], "host": "187.44.7.80", "type": "http", "response_time": 0.94, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "KR", "export_address": ["27.102.66.181"], "host": "27.102.66.181", "type": "http", "response_time": 1.06, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "CN", "export_address": ["47.75.44.9"], "host": "47.75.44.9", "type": "http", "response_time": 1.42, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 1080}
+{"country": "ZA", "export_address": ["192.168.100.254", "197.234.179.102"], "host": "197.234.179.102", "type": "http", "response_time": 1.06, "anonymity": "anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "US", "export_address": ["142.93.147.192"], "host": "142.93.147.192", "type": "https", "response_time": 0.34, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8118}
+{"country": "BR", "export_address": ["187.44.7.80"], "host": "187.44.7.80", "type": "https", "response_time": 1.85, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "KH", "export_address": ["34.73.66.97", "202.79.29.149"], "host": "202.79.29.149", "type": "http", "response_time": 1.97, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "US", "export_address": ["162.144.220.192"], "host": "162.144.220.192", "type": "http", "response_time": 2.51, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "HK", "export_address": ["47.52.114.248"], "host": "47.52.114.248", "type": "http", "response_time": 2.26, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 443}
+{"country": "ID", "export_address": ["34.74.91.53", "36.90.225.132"], "host": "36.90.225.132", "type": "http", "response_time": 2.01, "anonymity": "anonymous", "from": "freeproxylist", "port": 80}
+{"country": "BR", "export_address": ["170.82.73.128"], "host": "170.82.73.140", "type": "http", "response_time": 1.7, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "SG", "export_address": ["159.138.21.170"], "host": "159.138.21.170", "type": "http", "response_time": 2.73, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "BR", "export_address": ["143.255.52.25"], "host": "143.255.52.25", "type": "http", "response_time": 1.86, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 44298}
+{"country": "TH", "export_address": ["34.73.66.97", "125.25.161.123"], "host": "125.25.161.123", "type": "http", "response_time": 1.65, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "ID", "export_address": ["202.150.143.59"], "host": "202.150.143.59", "type": "http", "response_time": 2.76, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 43921}
+{"country": "BR", "export_address": ["191.7.195.254"], "host": "191.7.195.254", "type": "http", "response_time": 3.05, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 45041}
+{"country": "US", "export_address": ["67.214.107.18"], "host": "65.38.21.117", "type": "http", "response_time": 2.97, "anonymity": "anonymous", "from": "freeproxylist", "port": 80}
+{"country": "TH", "export_address": ["34.73.34.132", "1.20.243.74"], "host": "1.20.243.74", "type": "http", "response_time": 2.94, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "AU", "export_address": ["146.88.23.64"], "host": "146.88.23.64", "type": "https", "response_time": 3.57, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "BR", "export_address": ["170.82.73.128"], "host": "170.82.73.140", "type": "https", "response_time": 2.72, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "RU", "export_address": ["109.72.232.240"], "host": "109.72.232.240", "type": "https", "response_time": 3.57, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "BR", "export_address": ["143.255.52.25"], "host": "143.255.52.25", "type": "https", "response_time": 2.94, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 44298}
+{"country": "TH", "export_address": ["182.52.90.42"], "host": "182.52.90.42", "type": "http", "response_time": 4.1, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 51657}
+{"country": "TH", "export_address": ["101.109.255.48"], "host": "101.109.255.48", "type": "http", "response_time": 4.28, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53742}
+{"country": "RU", "export_address": ["109.72.232.240"], "host": "109.72.232.240", "type": "http", "response_time": 4.12, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "TH", "export_address": ["35.196.82.30", "1.179.144.41"], "host": "1.179.144.41", "type": "http", "response_time": 4.08, "anonymity": "anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "BR", "export_address": ["191.7.195.254"], "host": "191.7.195.254", "type": "https", "response_time": 4.36, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 45041}
+{"country": "BR", "export_address": ["138.121.32.133"], "host": "138.121.32.133", "type": "https", "response_time": 4.55, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 23492}
+{"country": "BD", "export_address": ["182.48.79.85"], "host": "182.48.79.85", "type": "https", "response_time": 3.01, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "BD", "export_address": ["180.211.193.74"], "host": "180.211.193.74", "type": "https", "response_time": 4.21, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 40536}
+{"country": "BG", "export_address": ["78.130.145.167"], "host": "78.130.145.167", "type": "http", "response_time": 4.38, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 40406}
+{"country": "BR", "export_address": ["187.62.191.3"], "host": "187.62.191.3", "type": "https", "response_time": 4.32, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 61456}
+{"country": "ZA", "export_address": ["165.73.232.249"], "host": "165.73.233.1", "type": "http", "response_time": 4.65, "anonymity": "transparent", "from": "freeproxylist", "port": 8080}
+{"country": "ID", "export_address": ["36.90.225.132"], "host": "36.90.225.132", "type": "https", "response_time": 4.74, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "ZA", "export_address": ["102.23.237.49"], "host": "154.126.211.169", "type": "http", "response_time": 6.01, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 41014}
+{"country": "TH", "export_address": ["1.20.243.74"], "host": "1.20.243.74", "type": "https", "response_time": 5.76, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "BD", "export_address": ["180.211.193.74"], "host": "180.211.193.74", "type": "http", "response_time": 5.56, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 40536}
+{"country": "BG", "export_address": ["78.130.145.167"], "host": "78.130.145.167", "type": "https", "response_time": 5.79, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 40406}
+{"country": "NG", "export_address": ["197.211.39.16"], "host": "197.211.39.16", "type": "http", "response_time": 6.43, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 33289}
+{"country": "TH", "export_address": ["125.25.161.123"], "host": "125.25.161.123", "type": "https", "response_time": 5.3, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "TH", "export_address": ["101.109.255.48"], "host": "101.109.255.48", "type": "https", "response_time": 6.6, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53742}
+{"country": "TH", "export_address": ["1.179.144.41"], "host": "1.179.144.41", "type": "https", "response_time": 6.51, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "BR", "export_address": ["186.219.210.18"], "host": "186.219.210.86", "type": "http", "response_time": 6.24, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 33668}
+{"country": "BR", "export_address": ["186.219.210.18"], "host": "186.219.210.86", "type": "https", "response_time": 6.33, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 33668}
+{"country": "TH", "export_address": ["182.52.90.42"], "host": "182.52.90.42", "type": "https", "response_time": 7.02, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 51657}
+{"country": "UA", "export_address": ["176.118.49.54"], "host": "176.118.49.54", "type": "http", "response_time": 7.41, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "FR", "export_address": ["37.71.165.100"], "host": "37.71.165.99", "type": "http", "response_time": 7.38, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80}
+{"country": "ZA", "export_address": ["165.73.232.249"], "host": "165.73.233.1", "type": "https", "response_time": 7.02, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "NG", "export_address": ["197.234.35.82"], "host": "197.234.35.82", "type": "http", "response_time": 1.28, "anonymity": "high_anonymous", "from": "txt", "port": 53281}
+{"country": "IN", "export_address": ["103.194.242.78"], "host": "103.194.242.78", "type": "http", "response_time": 8.05, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 47727}
+{"country": "AR", "export_address": ["131.161.236.137"], "host": "131.161.237.30", "type": "http", "response_time": 6.56, "anonymity": "transparent", "from": "freeproxylist", "port": 8090}
+{"country": "ZA", "export_address": ["197.234.179.102"], "host": "197.234.179.102", "type": "https", "response_time": 8.33, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 3128}
+{"country": "ID", "export_address": ["103.9.227.210"], "host": "103.9.227.210", "type": "https", "response_time": 8.62, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "IN", "export_address": ["103.14.198.14"], "host": "103.14.198.145", "type": "https", "response_time": 8.44, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 83}
+{"country": "RU", "export_address": ["91.207.238.193"], "host": "91.207.238.193", "type": "https", "response_time": 7.31, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 8080}
+{"country": "BD", "export_address": ["115.127.64.58"], "host": "115.127.64.62", "type": "https", "response_time": 8.74, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 39611}
+{"country": "BR", "export_address": ["179.124.240.199"], "host": "179.124.240.199", "type": "https", "response_time": 7.87, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 46318}
+{"country": "TH", "export_address": ["180.180.124.248"], "host": "180.180.124.248", "type": "https", "response_time": 2.87, "anonymity": "high_anonymous", "from": "txt", "port": 60098}
+{"country": "TH", "export_address": ["180.180.124.248"], "host": "180.180.124.248", "type": "http", "response_time": 2.97, "anonymity": "high_anonymous", "from": "txt", "port": 60098}
+{"country": "RU", "export_address": ["178.44.183.189"], "host": "178.44.183.189", "type": "https", "response_time": 10.03, "anonymity": "high_anonymous", "from": "freeproxylist", "port": 53281}
+{"country": "RU", "export_address": ["93.157.163.66"], "host": "93.157.163.66", "type": "http", "response_time": 1.81, "anonymity": "high_anonymous", "from": "txt", "port": 35081}
+{"country": "CN", "export_address": ["47.244.50.194"], "host": "47.244.50.194", "type": "http", "response_time": 1.43, "anonymity": "high_anonymous", "from": "txt", "port": 8081}
+{"country": "RU", "export_address": ["83.219.1.201"], "host": "83.219.1.201", "type": "https", "response_time": 4.64, "anonymity": "high_anonymous", "from": "txt", "port": 41380}
+{"country": "RU", "export_address": ["213.33.224.82"], "host": "213.33.224.82", "type": "https", "response_time": 5.01, "anonymity": "high_anonymous", "from": "txt", "port": 8080}
+{"country": "PH", "export_address": ["103.105.212.106"], "host": "103.105.212.106", "type": "http", "response_time": 3.61, "anonymity": "high_anonymous", "from": "txt", "port": 53281}
+{"country": "CL", "export_address": ["186.10.80.122"], "host": "186.10.80.122", "type": "http", "response_time": 1.7, "anonymity": "high_anonymous", "from": "txt", "port": 53281}
+{"country": "ID", "export_address": ["103.111.55.18"], "host": "103.111.55.18", "type": "http", "response_time": 4.23, "anonymity": "high_anonymous", "from": "txt", "port": 54550}
+{"country": "BR", "export_address": ["45.228.48.4"], "host": "45.228.48.4", "type": "https", "response_time": 3.91, "anonymity": "high_anonymous", "from": "txt", "port": 53281}
+{"country": "BR", "export_address": ["45.228.48.4"], "host": "45.228.48.4", "type": "http", "response_time": 4.5, "anonymity": "high_anonymous", "from": "txt", "port": 53281}
+{"country": "BR", "export_address": ["200.150.86.138"], "host": "200.150.86.138", "type": "https", "response_time": 4.51, "anonymity": "high_anonymous", "from": "txt", "port": 44677}
+{"country": "HK", "export_address": ["159.138.1.185"], "host": "159.138.1.185", "type": "http", "response_time": 3.57, "anonymity": "high_anonymous", "from": "txt", "port": 80}
+{"country": "BR", "export_address": ["200.150.86.138"], "host": "200.150.86.138", "type": "http", "response_time": 4.78, "anonymity": "high_anonymous", "from": "txt", "port": 44677}
+{"country": "CL", "export_address": ["186.10.80.122"], "host": "186.10.80.122", "type": "https", "response_time": 4.14, "anonymity": "high_anonymous", "from": "txt", "port": 53281}
+{"country": "RU", "export_address": ["188.168.96.34"], "host": "188.168.96.34", "type": "http", "response_time": 7.53, "anonymity": "high_anonymous", "from": "txt", "port": 34298}
+{"country": "IN", "export_address": ["117.240.59.115"], "host": "117.240.59.115", "type": "http", "response_time": 6.93, "anonymity": "high_anonymous", "from": "txt", "port": 36127}
+{"country": "RU", "export_address": ["93.157.163.66"], "host": "93.157.163.66", "type": "https", "response_time": 6.54, "anonymity": "high_anonymous", "from": "txt", "port": 35081}
+{"country": "TH", "export_address": ["118.173.232.219"], "host": "118.173.232.219", "type": "https", "response_time": 4.15, "anonymity": "high_anonymous", "from": "txt", "port": 57499}
+{"country": "ID", "export_address": ["103.94.171.134"], "host": "103.94.171.134", "type": "http", "response_time": 4.14, "anonymity": "high_anonymous", "from": "txt", "port": 46276}
+{"country": "UG", "export_address": ["196.0.111.194"], "host": "196.0.111.194", "type": "https", "response_time": 6.18, "anonymity": "high_anonymous", "from": "txt", "port": 34638}
+{"country": "IN", "export_address": ["117.240.59.115"], "host": "117.240.59.115", "type": "https", "response_time": 7.96, "anonymity": "high_anonymous", "from": "txt", "port": 36127}
+{"country": "ID", "export_address": ["103.94.171.134"], "host": "103.94.171.134", "type": "https", "response_time": 5.04, "anonymity": "high_anonymous", "from": "txt", "port": 46276}
+{"country": "BD", "export_address": ["103.221.254.44"], "host": "103.221.254.44", "type": "http", "response_time": 5.3, "anonymity": "high_anonymous", "from": "txt", "port": 56471}
